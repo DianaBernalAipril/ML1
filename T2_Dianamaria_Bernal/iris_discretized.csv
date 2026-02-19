@@ -1,0 +1,151 @@
+sepal_length,sepal_width,petal_length,petal_width,species
+Very Short,Long,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Short,Very Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Short,Very Long,Small,Very Small,setosa
+Short,Very Long,Small,Very Small,setosa
+Short,Very Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Short,Long,Small,Very Small,setosa
+Very Short,Very Long,Small,Very Small,setosa
+Short,Very Long,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Short,Long,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Very Short,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Very Short,Short,Small,Very Small,setosa
+Short,Long,Small,Very Small,setosa
+Very Short,Long,Small,Very Small,setosa
+Long,Short,Medium,Big,versicolor
+Long,Short,Medium,Big,versicolor
+Long,Short,Medium,Big,versicolor
+Short,Very Short,Medium,Big,versicolor
+Long,Short,Medium,Big,versicolor
+Short,Short,Medium,Big,versicolor
+Long,Long,Medium,Big,versicolor
+Very Short,Very Short,Medium,Small,versicolor
+Long,Short,Medium,Big,versicolor
+Very Short,Short,Medium,Big,versicolor
+Very Short,Very Short,Medium,Small,versicolor
+Short,Short,Medium,Big,versicolor
+Short,Very Short,Medium,Small,versicolor
+Short,Short,Medium,Big,versicolor
+Short,Short,Medium,Big,versicolor
+Long,Short,Medium,Big,versicolor
+Short,Short,Medium,Big,versicolor
+Short,Short,Medium,Small,versicolor
+Long,Very Short,Medium,Big,versicolor
+Short,Very Short,Medium,Small,versicolor
+Short,Short,Medium,Big,versicolor
+Short,Short,Medium,Big,versicolor
+Long,Very Short,Medium,Big,versicolor
+Short,Short,Medium,Small,versicolor
+Long,Short,Medium,Big,versicolor
+Long,Short,Medium,Big,versicolor
+Long,Short,Medium,Big,versicolor
+Long,Short,Big,Big,versicolor
+Short,Short,Medium,Big,versicolor
+Short,Very Short,Medium,Small,versicolor
+Short,Very Short,Medium,Small,versicolor
+Short,Very Short,Medium,Small,versicolor
+Short,Short,Medium,Small,versicolor
+Short,Short,Big,Big,versicolor
+Short,Short,Medium,Big,versicolor
+Short,Long,Medium,Big,versicolor
+Long,Short,Medium,Big,versicolor
+Long,Very Short,Medium,Big,versicolor
+Short,Short,Medium,Big,versicolor
+Short,Very Short,Medium,Big,versicolor
+Short,Very Short,Medium,Small,versicolor
+Short,Short,Medium,Big,versicolor
+Short,Very Short,Medium,Small,versicolor
+Very Short,Very Short,Medium,Small,versicolor
+Short,Short,Medium,Big,versicolor
+Short,Short,Medium,Small,versicolor
+Short,Short,Medium,Big,versicolor
+Long,Short,Medium,Big,versicolor
+Very Short,Very Short,Medium,Small,versicolor
+Short,Short,Medium,Big,versicolor
+Long,Long,Big,Very Big,virginica
+Short,Short,Big,Big,virginica
+Very Long,Short,Big,Very Big,virginica
+Long,Short,Big,Big,virginica
+Long,Short,Big,Very Big,virginica
+Very Long,Short,Big,Very Big,virginica
+Very Short,Very Short,Medium,Big,virginica
+Very Long,Short,Big,Big,virginica
+Long,Very Short,Big,Big,virginica
+Very Long,Long,Big,Very Big,virginica
+Long,Short,Big,Very Big,virginica
+Long,Short,Big,Big,virginica
+Long,Short,Big,Very Big,virginica
+Short,Very Short,Big,Very Big,virginica
+Short,Short,Big,Very Big,virginica
+Long,Short,Big,Very Big,virginica
+Long,Short,Big,Big,virginica
+Very Long,Long,Big,Very Big,virginica
+Very Long,Very Short,Big,Very Big,virginica
+Short,Very Short,Big,Big,virginica
+Long,Short,Big,Very Big,virginica
+Short,Short,Medium,Very Big,virginica
+Very Long,Short,Big,Very Big,virginica
+Long,Short,Medium,Big,virginica
+Long,Long,Big,Very Big,virginica
+Very Long,Short,Big,Big,virginica
+Long,Short,Medium,Big,virginica
+Short,Short,Medium,Big,virginica
+Long,Short,Big,Very Big,virginica
+Very Long,Short,Big,Big,virginica
+Very Long,Short,Big,Big,virginica
+Very Long,Long,Big,Very Big,virginica
+Long,Short,Big,Very Big,virginica
+Long,Short,Big,Big,virginica
+Short,Very Short,Big,Big,virginica
+Very Long,Short,Big,Very Big,virginica
+Long,Long,Big,Very Big,virginica
+Long,Short,Big,Big,virginica
+Short,Short,Medium,Big,virginica
+Long,Short,Big,Very Big,virginica
+Long,Short,Big,Very Big,virginica
+Long,Short,Big,Very Big,virginica
+Short,Short,Big,Big,virginica
+Long,Short,Big,Very Big,virginica
+Long,Long,Big,Very Big,virginica
+Long,Short,Big,Very Big,virginica
+Long,Very Short,Big,Big,virginica
+Long,Short,Big,Very Big,virginica
+Long,Long,Big,Very Big,virginica
+Short,Short,Big,Big,virginica
